@@ -11978,4 +11978,23 @@ textarea.form-control-lg {
   .d-print-none {
     display: none !important;
   }
+}
+.navbar-nav {
+  text-align: center;
+}
+
+.navbar-nav .dropdown-menu {
+  text-align: center;
+}
+
+.navbar-collapse {
+  flex-grow: 0;
+}
+
+.navbar-nav {
+  text-align: center;
+}
+
+.navbar-nav .dropdown-menu {
+  text-align: center;
 }/*# sourceMappingURL=main.css.map */
